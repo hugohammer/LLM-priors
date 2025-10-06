@@ -8,18 +8,15 @@ Published in *Scientific Reports*, 2025.
 
 ---
 
-## 📄 Summary
+## Summary
 
 This paper explores the potential of using large language models (LLMs) to select informative prior distributions in Bayesian regression analysis.  
 
-We evaluated three different LLMs — **ChatGPT**, **Gemini**, and **Claude** — and found that the models were able to correctly identify the **direction of associations** between predictors and the response variable. This demonstrates great potential for leveraging LLMs to select informative priors.
-
-However, a significant challenge remains in **calibrating the width of these priors**.  
-The LLMs showed tendencies toward both **overconfidence** and **underconfidence**.
+We evaluated three different LLMs ChatGPT, Gemini, and Claude and found that the models were able to correctly identify the direction of associations between predictors and the response variable. This demonstrates great potential for leveraging LLMs to select informative priors. However, a significant challenge remains in calibrating the width of these priors. The LLMs showed tendencies toward both overconfidence and underconfidence.
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this code or paper in your research, please cite it as:
 
